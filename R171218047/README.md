@@ -10,3 +10,4 @@
  3. [Networks in Docker](Experiment3_Hridyanshu.docx)
  4. [Creating a Docker image and pushing it to Docker hub](Experiment4_Hridyanshu.docx)
  5. [Multi-container setup using Docker Compose](Experiment5_Hridyanshu.docx)
+ 6. [Linking two containers using Docker LInk](Experiment6_Hridyanshu.docx)
