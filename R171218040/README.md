@@ -24,3 +24,6 @@ level like virtual Machines.
 8. Docker Ignore
 9. Docker Metadata and Labels
 10. Docker Logs - Managing Log files
+11. Docker Restart Policy
+12. Kubernetes-Minikube installation and fundamentals
+13. Deploying Pods and Services on minikube.
