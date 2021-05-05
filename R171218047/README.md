@@ -12,3 +12,4 @@
  5. [Multi-container setup using Docker Compose](Experiment5_Hridyanshu.docx)
  6. [Linking two containers using Docker Link](Experiment6_Hridyanshu.docx)
  7. [Creating manager and worker group using Docker Swarm](Experiment7_Hridyanshu.docx)
+ 8. [Running an application across multiple containers using Docker Swarm](Experiment8_Hridyanshu.docx)
