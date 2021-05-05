@@ -22,3 +22,4 @@ level like virtual Machines.
 6. Docker Link
 7. Docker Swarm 
 8. Docker Ignore
+9. Docker Metadata and Labels
