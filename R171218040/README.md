@@ -20,3 +20,4 @@ level like virtual Machines.
 4. To create Docker image using Dockerfile and pushing to Docker Hub
 5. To create Docker image using Docker compose
 6. Docker Link
+7. Docker Swarm 
