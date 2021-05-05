@@ -23,3 +23,4 @@ level like virtual Machines.
 7. Docker Swarm 
 8. Docker Ignore
 9. Docker Metadata and Labels
+10. Docker Logs - Managing Log files
