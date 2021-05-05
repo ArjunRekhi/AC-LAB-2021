@@ -7,7 +7,8 @@ which is enforced by the container runtime. They ideally share the resources of 
 processes and resources because of namespaces and cgroups. A platform also has a control over the runtime and the lifecycle of the images.
 It can also be defined as a tool or technology, which provides the functionality to spin up containers with the extraction at the software level and not at the hardware 
 level like virtual Machines.
-**Examples:*** LXC, Rkt, Docker.
+
+**Examples:** LXC, Rkt, Docker.
 
 **In this repository, I have attached some experiments and their procedure**
 
