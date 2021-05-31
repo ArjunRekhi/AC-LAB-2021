@@ -10,3 +10,7 @@
  3. [Networks in Docker](Experiment3_Hridyanshu.docx)
  4. [Creating a Docker image and pushing it to Docker hub](Experiment4_Hridyanshu.docx)
  5. [Multi-container setup using Docker Compose](Experiment5_Hridyanshu.docx)
+ 6. [Linking two containers using Docker Link](Experiment6_Hridyanshu.docx)
+ 7. [Creating manager and worker group using Docker Swarm](Experiment7_Hridyanshu.docx)
+ 8. [Running an application across multiple containers using Docker Swarm](Experiment8_Hridyanshu.docx)
+ 9. [Build docker image using dockerignore file](Experiment9_Hridyanshu.docx)
